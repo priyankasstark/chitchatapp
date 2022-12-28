@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tanmayhedau/Chit-Chat-App.git"
+    "url": "git+https://github.com/priyankasstark/chitchatapp.git"
   },
   "keywords": [],
-  "author": "Tanmay Hedau",
+  "author": "Priyanka Sen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tanmayhedau/Chit-Chat-App/issues"
+    "url": "https://github.com/priyankasstark/chitchatapp/issues"
   },
-  "homepage": "https://github.com/tanmayhedau/Chit-Chat-App#readme",
+  "homepage": "https://github.com/priyankasstark/chitchatapp#readme",
   "dependencies": {
     "express": "^4.18.2",
     "moment": "^2.29.4",
